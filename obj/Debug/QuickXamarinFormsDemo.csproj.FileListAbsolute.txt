@@ -1,0 +1,16 @@
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\QuickXamarinFormsDemo.dll
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\QuickXamarinFormsDemo.pdb
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\obj\Debug\QuickXamarinFormsDemo.csprojResolveAssemblyReference.cache
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\obj\Debug\QuickXamarinFormsDemo.MainPage.xaml.g.cs
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\obj\Debug\QuickXamarinFormsDemo.App.xaml.g.cs
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\obj\Debug\QuickXamarinFormsDemo.Page1.xaml.g.cs
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\obj\Debug\QuickXamarinFormsDemo.dll
+c:\users\markd\documents\visual studio 2017\Projects\QuickXamarinFormsDemo\QuickXamarinFormsDemo\QuickXamarinFormsDemo\obj\Debug\QuickXamarinFormsDemo.pdb
