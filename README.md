@@ -1,5 +1,5 @@
 # Quick-Xamarin-Forms-Demo
-Xamarin forms quick demo with basic ui control with some event handlers (For dummy)
+Xamarin forms quick demo with basic ui control with some event handlers (For beginners)
 
 This xamarin forms quick demo will only consume a few minutes to demostrate some basic controls of xamarin forms. I usually perform this demo after my talk about "What is Xamarin platform and Xamarin Forms with PCL"
 
